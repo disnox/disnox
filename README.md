@@ -53,7 +53,7 @@ width="800"  height="3">
 
 [![profile](https://github-profile-trophy.vercel.app/?username=disnox&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=disnox&theme=algolia&column=8)
 
-[![snake](./assets/github-contribution-grid-snake.svg)
+![snake](./assets/github-contribution-grid-snake.svg)
 
 [](https://raw.githubusercontent.com/disnox/disnox/master/assets/github-contribution-grid-snake.svg)
 [![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/disnox/disnox/master/profile-3d-contrib/profile-night-rainbow.svg)
