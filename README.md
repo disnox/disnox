@@ -121,7 +121,7 @@ width="800"  height="3">
 - 😺 [结合Multitouch完成我在Mac触摸板上的高效使用](https://wiki.eryajf.net/pages/301514/) 
 <!-- BLOG-POST-LIST:END -->
 
-更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
+更多内容直接点击：[https://disnox.top](https://disnox.top)
 
 </details>
 
