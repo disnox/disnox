@@ -234,10 +234,7 @@ Mac                      13 hrs 25 mins      ███████████�
 <details open>
 <summary>点击展开 ...</summary>
 <div align="center">
-
-[![](https://stats.justsong.cn/api/bilibili/?id=511798206)](https://space.bilibili.com/511798206)
-
-[![](https://stats.justsong.cn/api/zhihu?username=disnox)](https://www.zhihu.com/people/disnox)
+[![](https://stats.justsong.cn/api/bilibili/?id=511798206)](https://space.bilibili.com/511798206)[![](https://stats.justsong.cn/api/zhihu?username=disnox)](https://www.zhihu.com/people/disnox)
 </div>
 
 
