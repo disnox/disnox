@@ -11,7 +11,7 @@ width="800"  height="3">
 
 </div>
 
-<img align='right' src="https://github.com/disnox/tu/blob/main/img/image_20220626_200153.gif?raw=true" width="450" height="390" />
+<img align='right' src="https://github.com/eryajf/tu/blob/main/img/image_20220626_200153.gif?raw=true" width="450" height="390" />
 
 有时候想象自己并不是一个IT男，尽管身处IT工作之中，但是更多时候却又喜欢以一种跳出去回望这个群体的样子，常常别有一番滋味。
 
@@ -234,8 +234,10 @@ Mac                      13 hrs 25 mins      ███████████�
 <details open>
 <summary>点击展开 ...</summary>
 <div align="center">
+
 [![](https://stats.justsong.cn/api/bilibili/?id=511798206)](https://space.bilibili.com/511798206)[![](https://stats.justsong.cn/api/zhihu?username=disnox)](https://www.zhihu.com/people/disnox)
 </div>
+
 
 
 </details>
