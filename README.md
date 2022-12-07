@@ -49,14 +49,16 @@ width="800"  height="3">
 
 <div align="center">
 
-[![尚宇's github stats](https://github-readme-stats.vercel.app/api?username=eryajf&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=eryajf&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+[![尚宇's github stats](https://github-readme-stats.vercel.app/api?username=disnox&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=disnox&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=disnox&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=disnox&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
-[![profile](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)
+[![profile](https://github-profile-trophy.vercel.app/?username=disnox&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=disnox&theme=algolia&column=8)
 
-[![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/assets/github-contribution-grid-snake.svg)
-[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-3d-contrib/profile-night-rainbow.svg)
+[![snake](./assets/github-contribution-grid-snake.svg)
 
-[![](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)
+[](https://raw.githubusercontent.com/disnox/disnox/master/assets/github-contribution-grid-snake.svg)
+[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/disnox/disnox/master/profile-3d-contrib/profile-night-rainbow.svg)
+
+[![](https://activity-graph.herokuapp.com/graph?username=disnox&theme=github)](https://activity-graph.herokuapp.com/graph?username=disnox&theme=github)
 
 </div>
 
@@ -218,7 +220,6 @@ Mac                      13 hrs 25 mins      ███████████�
 <table align="center">
 <tr>
 <td valign="top">
-
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=316286554&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=350)](https://music.163.com/#/user/home?id=316286554)
 
 </td>
