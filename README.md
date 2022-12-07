@@ -31,7 +31,7 @@ width="800"  height="3">
 [![Mail Badge](https://img.shields.io/badge/-disnox@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:disnox@163.com)](mailto:disnox@163.com)
 [![](https://img.shields.io/github/stars/disnox?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=disnox&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/disnox?color=27da6b&logo=Handshake)](https://github.com/disnox?tab=followers)
-[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E8%BF%90%E7%BB%B4%E8%89%BA%E6%9C%AF-71f9fe?logo=WeChat)](https://tva4.sinaimg.cn/large/008k1Yt0ly1h4nmsb1pgzj32n00yo154.jpg)
+[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E8%BF%90%E7%BB%B4%E8%89%BA%E6%9C%AF-71f9fe?logo=WeChat)](https://tva4.sinaimg.cn/large008k1Yt0ly1h4nmsb1pgzj32n00yo154.jpg)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5-d7b1bf?logo=Blogger)](https://wiki.disnox.net)
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/disnox/awesome-stars-disnox#readme)
 
@@ -125,22 +125,6 @@ width="800"  height="3">
 
 </details>
 
-### 🎸 最近在听音乐
-
-<details open>
-<summary>点击展开 ...</summary>
-<table align="center">
-<tr>
-<td valign="top">
-
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=3906202648&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=350)](https://music.163.com/#/user/home?id=3906202648)
-    
-</td>
-</tr>
-</table>
-
-
-</details>
 
 ### 🦚 B站与知乎
 
