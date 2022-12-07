@@ -216,14 +216,16 @@ Mac                      13 hrs 25 mins      ███████████�
 
 <details open>
 <summary>点击展开 ...</summary>
-
 <table align="center">
 <tr>
 <td valign="top">
+
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=3906202648&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=350)](https://music.163.com/#/user/home?id=3906202648)
+    
 </td>
 </tr>
 </table>
+
 
 </details>
 
@@ -231,11 +233,13 @@ Mac                      13 hrs 25 mins      ███████████�
 
 <details open>
 <summary>点击展开 ...</summary>
-
 <div align="center">
+
 [![](https://stats.justsong.cn/api/bilibili/?id=511798206)](https://space.bilibili.com/511798206)
+
 [![](https://stats.justsong.cn/api/zhihu?username=disnox)](https://www.zhihu.com/people/disnox)
 </div>
+
 
 </details>
 
